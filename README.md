@@ -1,5 +1,5 @@
 # Validação do tipo de imóvel
-
+[Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white
 Este projeto contém um programa em Python que identifica o tipo de imóvel
 informado pelo usuário e apresenta orientações sobre o consumo mensal de água.
 São aceitos os tipos `casa`, `apartamento` e `loja`.
