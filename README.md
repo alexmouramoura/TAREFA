@@ -1,6 +1,7 @@
 # Validação do tipo de imóvel
 :smiley:
 :money_with_wings:
+
 Este projeto contém um programa em Python que identifica o tipo de imóvel
 informado pelo usuário e apresenta orientações sobre o consumo mensal de água.
 São aceitos os tipos `casa`, `apartamento` e `loja`.
