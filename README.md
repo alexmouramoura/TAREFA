@@ -4,7 +4,7 @@
 
 Este projeto contém um programa em Python que identifica o tipo de imóvel
 informado pelo usuário e apresenta orientações sobre o consumo mensal de água.
-São aceitos os tipos `casa`, `apartamento` e `loja`.
+São aceitos os tipos `casa`🏡, `apartamento` 🏢e `loja`🏪.
 
 Para imóveis residenciais, o programa classifica o consumo informado e, no
 caso de apartamentos com consumo de até 10 m³, também informa que o consumo é
