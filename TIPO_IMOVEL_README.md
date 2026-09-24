@@ -32,3 +32,15 @@ comercial.
 
 Entradas de tipo de imóvel diferentes das opções aceitas são informadas como
 inválidas.
+
+## Pesquisa de atendimento
+
+O arquivo `pesquisa_atendimento.py` realiza uma pesquisa com 50 entrevistados.
+Para cada pessoa, são solicitados nome, idade e opinião sobre o atendimento.
+Ao final, o programa informa a quantidade de respostas `EXCELENTE` e `RUIM`.
+
+Para executar:
+
+```bash
+python pesquisa_atendimento.py
+```
