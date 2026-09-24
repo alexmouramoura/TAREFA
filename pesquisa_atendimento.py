@@ -1,4 +1,4 @@
-TOTAL_ENTREVISTADOS = 10
+TOTAL_ENTREVISTADOS = 50
 
 quantidade_excelente = 0
 quantidade_ruim = 0
